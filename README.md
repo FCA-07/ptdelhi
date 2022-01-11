@@ -1,2 +1,0 @@
-# ptdelhi
-master trainer
